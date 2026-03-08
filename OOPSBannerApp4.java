@@ -1,5 +1,4 @@
 public class OOPSBannerApp4 {
-
     public static void main(String[] args) {
 
         // Step 1: Create an empty String array to store 7 banner lines
